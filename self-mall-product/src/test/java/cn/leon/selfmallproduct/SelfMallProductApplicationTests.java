@@ -1,10 +1,10 @@
-package cn.leon.selfservicealpha;
+package cn.leon.selfmallproduct;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SelfServiceAlphaApplicationTests {
+class SelfMallProductApplicationTests {
 
     @Test
     void contextLoads() {
